@@ -51,6 +51,7 @@ span{
     display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    
    
    
 }
@@ -68,6 +69,8 @@ span{
     box-shadow: gray 10px 10px 40px;
     border-radius: 15px;
     text-justify: auto;
+    padding-bottom: 100px;
+    padding-top: 30px;
     
 
 }
@@ -92,4 +95,7 @@ span{
 }
 footer{
     text-align: center;
+}
+.sen-clr{
+    color: rgb(113, 111, 119);
 }
