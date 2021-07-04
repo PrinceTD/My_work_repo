@@ -1,0 +1,57 @@
+h1{
+font-size: 40px;
+
+}
+.letter{
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+span{
+    color: rgb(243, 154, 21);
+}
+.hero{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
+}
+.display{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.display img {
+    width: 90%;
+}
+.visit{
+    text-decoration: none;
+ background-image: linear-gradient(rgb(255, 72, 0), tomato);
+ 
+ padding: 10px 40px;
+ border-radius: 10px;
+ color: white;
+ Font-weight: 700;
+ 
+}
+#background{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    margin-top: 15%;
+    position: relative;
+}
+.flexible{
+    display: flex;
+}
+#Experience{
+    margin-bottom: 150px;
+    margin-top: 15%;
+}
+
