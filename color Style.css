@@ -49,9 +49,47 @@ span{
 }
 .flexible{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+   
+   
 }
 #Experience{
     margin-bottom: 150px;
     margin-top: 15%;
 }
+.shawdo{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: gray 10px 10px 40px;
+    border-radius: 15px;
+    text-justify: auto;
+    
 
+}
+.width{
+    font-size: 30px;
+}
+.color{
+    color: rgb(243, 154, 21);
+}
+#web{
+    
+    border-left: 5px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+ 
+}
+#web-dev{
+
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
